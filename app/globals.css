@@ -79,6 +79,12 @@
   margin: 0;
 }
 
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
 html,
 body {
   max-width: 100vw;
