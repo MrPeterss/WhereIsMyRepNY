@@ -1,5 +1,10 @@
 iframe {
-  width: 100vw;
-  height: 100vw;
+  width: 98vw;
+  height: 95vh;
   border: none;
+  padding: none;
+}
+
+body {
+  overflow: hidden;
 }
