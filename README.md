@@ -5,7 +5,7 @@ WhereIsMyRepNY is a Next-JS project hosted using Vercel that shows new yorkers w
 You can visit the compiled project
 [here](https://whereismyrepny.vercel.app)
 
-or by going to: [https://www.whereismyrepny.vercel.app](https://whereismyrepny.vercel.app)
+or by going to: [https://whereismyrepny.vercel.app](https://whereismyrepny.vercel.app)
 
 ### Why?
 
