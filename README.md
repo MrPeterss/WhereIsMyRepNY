@@ -10,5 +10,3 @@ or by going to: [https://www.whereismyrepny.vercel.app](https://www.whereismyrep
 ### Why?
 
 There is too little access to a centralized location where all information about state representatives offices are located. This application serves to solve that issue. 
-
-### How?
