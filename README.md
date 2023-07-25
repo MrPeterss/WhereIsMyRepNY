@@ -1,6 +1,6 @@
 # Where Is My Rep? | NY
 
-WhereIsMyRepNY is a Next-JS project hosted using Vercel that shows New Yorkers where their state representatives offices are.
+WhereIsMyRepNY is a Next-JS project hosted using Vercel that shows New Yorkers where their state representatives offices are. Made for the NYS Department of Labor
 
 You can visit the compiled project
 [here](https://whereismyrepny.vercel.app) or by going to: [https://whereismyrepny.vercel.app](https://whereismyrepny.vercel.app)
